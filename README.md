@@ -1,16 +1,6 @@
-# memory_game_flutter
+<img width="1588" height="898" alt="image" src="https://github.com/user-attachments/assets/d439a650-a168-48b6-8eea-2e624f489074" />
+Memory Game:
+Match same animals.
+Total 8 types of animals are in the game like monkey, elephant, fox etc.
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
